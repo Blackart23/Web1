@@ -1,5 +1,12 @@
+@font-face{
+    font-family: fuente1;
+    src: url("./Fuentes/Mister\ Grape\ -\ Personal\ Use.otf");
+}
+
+
 body{
-    background-color: #E2D4B7;
+   background: rgb(251,92,59);
+background: linear-gradient(90deg, rgba(251,92,59,1) 16%, rgba(248,167,172,1) 49%, rgba(0,13,255,1) 83%);
     font-family: Georgia, 'Times New Roman', Times, serif;
     padding-top: 5em;
     padding-left: 5em;
